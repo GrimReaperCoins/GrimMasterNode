@@ -24,8 +24,8 @@
 | Algorithm | Scrypt |
 | Type | PoW / PoS / Masternodes |
 | Total Supply | 250 Million |
-| Block Time | 90 seconds |
-| Masternode Collateral | 175.000 GRIM |
+| Block Time | 60 seconds |
+| Masternode Collateral | 175,000 GRIM |
 | Minimum stake age | 6 hours |
 | Coinbase maturity | 100 confirmations |
 | P2P port | 19666 |
