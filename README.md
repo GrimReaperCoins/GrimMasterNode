@@ -28,8 +28,8 @@
 | Masternode Collateral | 175,000 GRIM |
 | Minimum stake age | 6 hours |
 | Coinbase maturity | 100 confirmations |
-| P2P port | 19666 |
-| RPC port | 19667 |
+| P2P port | 19667 |
+| RPC port | 19666 |
 
 ## Reward Structure
 
